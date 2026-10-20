@@ -18,3 +18,5 @@ If you are developing a production application, we recommend using TypeScript wi
 Commit 4 - update dokumentasi
 
 Commit 5 - add project notes
+
+Commit 6 - finalize documentation
